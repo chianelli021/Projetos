@@ -1,3 +1,5 @@
+#Lista de tarefas CRUD: Create, Read, Update e Delete integrado com o MySQL (Banco de dados).
+
 import mysql.connector
 
 conexao = mysql.connector.connect(
